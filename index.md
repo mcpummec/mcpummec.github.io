@@ -1,3 +1,6 @@
+## Instant App
+Go to the instant app [here](https://mcpummec.github.io/instant)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/mcpummec/mcpummec.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
