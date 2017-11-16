@@ -1,5 +1,7 @@
 ## Instant App
-Go to the instant app [here](https://mcpummec.github.io/instant)
+Go to the instant app base feature [here](https://mcpummec.github.io/base)
+Go to the instant app feature1 [here](https://mcpummec.github.io/feature1)
+
 
 ## Welcome to GitHub Pages
 
