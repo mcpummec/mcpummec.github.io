@@ -2,7 +2,7 @@
 		"relation": ["delegate_permission/common.handle_all_urls"],
 		"target": {
 			"namespace": "android_app",
-			"package_name": "com.palfinger.mobile.instantdemo",
+			"package_name": "com.palfinger.mobile.instantdemo.base",
 			"sha256_cert_fingerprints":
 			["C4:8E:2A:30:19:83:FB:81:9F:52:3D:FA:40:EF:FB:A3:F2:B8:A6:32:5E:2B:A3:A2:4D:1F:FD:8F:24:F3:7A:5E"]
 		}
