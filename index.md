@@ -3,6 +3,11 @@ Go to the instant app base feature [here](https://mcpummec.github.io/base)
 
 Go to the instant app feature1 [here](https://mcpummec.github.io/feature1)
 
+## Instant App 2
+Go to the instant app base feature [here](https://mcpummec.github.io/base2)
+
+Go to the instant app feature1 [here](https://mcpummec.github.io/feature2)
+
 
 ## Welcome to GitHub Pages
 
